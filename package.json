@@ -1,0 +1,21 @@
+{
+  "name": "relax-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoonkwon-yi/relaxer-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoonkwon-yi/relaxer-app/issues"
+  },
+  "homepage": "https://github.com/yoonkwon-yi/relaxer-app#readme",
+  "dependencies": {
+    "harp": "^0.41.0"
+  }
+}
